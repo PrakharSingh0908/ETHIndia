@@ -32,9 +32,15 @@ And stories like [these](https://dailyhodl.com/2023/11/07/banker-loses-access-to
    Benificiary is the account you trust - This can be yours secondary account or your family/friends.
 
 ### 3. **Define execution terms**
-   **Execution** - Each smart contract is executed when conditions defined by the user are fulfilled.
+   ### **Execution** - 
+   Each smart contract is executed when certain conditions defined by the user are fulfilled.
    
-   **Terms** - We call these conditions terms. You can define terms based on two broad categories :-
+   ### **Terms** - 
+   We call these conditions terms. You can define terms based on two broad categories :-
 
-   1. Based on i
+   1. ### Based on time -
+      We can either chose to auto-execute the contract after a specified period of inactivity, usually long time periods such as after 3 or 5 years of inactivity or we can choose to auto-execute the contract on a particular date(DD/MM/YYYY) defined by us.
+
+   2. ### Based on recovery amount -
+      Suppose we don't want to recover the complete amount or want the recovery to take place in small packages then we can specify the fund amount that need to be deducted with the respective contract.
    
