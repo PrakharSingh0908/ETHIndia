@@ -62,3 +62,6 @@ And stories like [these](https://dailyhodl.com/2023/11/07/banker-loses-access-to
 
    ![Custom Contracts](https://github.com/PrakharSingh0908/ETHIndia/assets/102904893/2833008b-1aff-426e-ad7e-e3822d44bd94)
 
+## User flow
+### A detailed [user flow chart can be found here](https://drive.google.com/file/d/1c-n2Is1LTYWWP45HjkSQkdZcUYsDnaBD/view?usp=sharing)
+
