@@ -40,7 +40,11 @@ And stories like [these](https://dailyhodl.com/2023/11/07/banker-loses-access-to
 
    1. ### Based on time -
       We can either chose to auto-execute the contract after a specified period of inactivity, usually long time periods such as after 3 or 5 years of inactivity or we can choose to auto-execute the contract on a particular date(DD/MM/YYYY) defined by us.
+      
+      ![Auto-execute Terms](https://github.com/PrakharSingh0908/ETHIndia/assets/102904893/6ec210a3-dea8-45c0-8155-3da87cca3240)
 
-   2. ### Based on recovery amount -
+   3. ### Based on recovery amount -
       Suppose we don't want to recover the complete amount or want the recovery to take place in small packages then we can specify the fund amount that need to be deducted with the respective contract.
-   
+
+      ![Funds](https://github.com/PrakharSingh0908/ETHIndia/assets/102904893/ae7cbad2-7610-411e-a383-943a089042b6)
+
