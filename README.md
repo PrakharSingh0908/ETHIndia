@@ -48,3 +48,12 @@ And stories like [these](https://dailyhodl.com/2023/11/07/banker-loses-access-to
 
       ![Funds](https://github.com/PrakharSingh0908/ETHIndia/assets/102904893/ae7cbad2-7610-411e-a383-943a089042b6)
 
+### 4. **Add guardians to your contracts**
+   To provide an extra layer of security and human control to this process we have provided the option of guardians to each contracts.
+   
+   ### Guardians - 
+   These can be your secondary accounts or your family/friends. The guardians have the power to execute the contracts before the auto-execute process kicks in. As the owner of the wallet you can remove, add or change the guardians.
+
+   ![Guardians](https://github.com/PrakharSingh0908/ETHIndia/assets/102904893/67385bfe-79dd-4f54-8a79-fa4f8e17e0f8)
+
+   
