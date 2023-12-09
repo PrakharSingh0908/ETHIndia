@@ -13,7 +13,7 @@ Currently worth around $140 billion — appear to be in lost or otherwise strand
 And stories like [these](https://dailyhodl.com/2023/11/07/banker-loses-access-to-450000000-worth-of-ethereum-eth-after-misplacing-wallet-keys-report/) are a common occurance in the crypto world.
 
 # Our Solution
-1. **Easy and smooth connection to your crypto wallet**
+### 1. **Easy and smooth connection to your crypto wallet**
    
    We provide effortless connection to all prominents wallets such as Metamask, Coinbase Wallet and WalletConnect.
    
@@ -21,11 +21,20 @@ And stories like [these](https://dailyhodl.com/2023/11/07/banker-loses-access-to
    
    This the wallet that you are trying to setup the backup against. In case of inactivity the funds will be recovered from this wallet.
 
-1. **Adding your benificiary**
-   When the backup phase starts the person to recieve the recovered crypto will be your Benificiary.
+### 2. **Adding your benificiary**
+
+   **Benificiary** - When the backup phase starts the person to recieve the recovered crypto will be your Benificiary.
+
+   We provide a smart contract that sends money to a person decided by you.
    
    ![Benificiary](https://github.com/PrakharSingh0908/ETHIndia/assets/102904893/ed4e9a7e-aa72-4b15-99c0-bd713dd056f4)
 
    Benificiary is the account you trust - This can be yours secondary account or your family/friends.
 
-1. 
+### 3. **Define execution terms**
+   **Execution** - Each smart contract is executed when conditions defined by the user are fulfilled.
+   
+   **Terms** - We call these conditions terms. You can define terms based on two broad categories :-
+
+   1. Based on i
+   
