@@ -13,7 +13,7 @@ Currently worth around $140 billion — appear to be in lost or otherwise strand
 And stories like [these](https://dailyhodl.com/2023/11/07/banker-loses-access-to-450000000-worth-of-ethereum-eth-after-misplacing-wallet-keys-report/) are a common occurance in the crypto world.
 
 # Our Solution
-### 1. **Easy and smooth connection to your crypto wallet**
+## 1. **Easy and smooth connection to your crypto wallet**
    
    We provide effortless connection to all prominents wallets such as Metamask, Coinbase Wallet and WalletConnect.
    
@@ -21,7 +21,7 @@ And stories like [these](https://dailyhodl.com/2023/11/07/banker-loses-access-to
    
    This the wallet that you are trying to setup the backup against. In case of inactivity the funds will be recovered from this wallet.
 
-### 2. **Adding your benificiary**
+## 2. **Adding your benificiary**
 
    **Benificiary** - When the backup phase starts the person to recieve the recovered crypto will be your Benificiary.
 
@@ -31,7 +31,7 @@ And stories like [these](https://dailyhodl.com/2023/11/07/banker-loses-access-to
 
    Benificiary is the account you trust - This can be yours secondary account or your family/friends.
 
-### 3. **Define execution terms**
+## 3. **Define execution terms**
    ### **Execution** - 
    Each smart contract is executed when certain conditions defined by the user are fulfilled.
    
@@ -48,7 +48,7 @@ And stories like [these](https://dailyhodl.com/2023/11/07/banker-loses-access-to
 
       ![Funds](https://github.com/PrakharSingh0908/ETHIndia/assets/102904893/ae7cbad2-7610-411e-a383-943a089042b6)
 
-### 4. **Add guardians to your contracts**
+## 4. **Add guardians to your contracts**
    To provide an extra layer of security and human control to this process we have provided the option of guardians to each contracts.
    
    ### Guardians - 
