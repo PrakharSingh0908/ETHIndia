@@ -56,4 +56,8 @@ And stories like [these](https://dailyhodl.com/2023/11/07/banker-loses-access-to
 
    ![Guardians](https://github.com/PrakharSingh0908/ETHIndia/assets/102904893/67385bfe-79dd-4f54-8a79-fa4f8e17e0f8)
 
-   
+## 5. **Create custom contracts**
+   Suppose you want to create a contract limited to only some specified tokens, or distribute the backup crypto between different beneficiaries. You can do so by creating various sub-contracts catering to these needs.
+
+   ![Custom Contracts](https://github.com/PrakharSingh0908/ETHIndia/assets/102904893/2833008b-1aff-426e-ad7e-e3822d44bd94)
+
